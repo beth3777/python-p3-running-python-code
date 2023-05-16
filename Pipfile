@@ -11,4 +11,5 @@ pytest = "7.1.3"
 [dev-packages]
 
 [requires]
+pipenv install
 python_full_version = "3.8.13"
